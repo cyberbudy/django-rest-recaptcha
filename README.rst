@@ -1,5 +1,5 @@
 Django Rest reCAPTCHA
-================
+=====================
 **Django Rest reCAPTCHA field to add google recaptcha in django-rest-framework**
 
 
@@ -8,8 +8,8 @@ Requirements
 
 Tested with:
 
-* Python: 2.7, 3.5
-* Django: 1.8, 1.9, 1.10, 1.11
+* Python: 2.7, 3.5, 3.6, 3.7
+* Django: 1.8, 1.9, 1.10, 1.11, 2.0, 2.1
 
 Installation
 ------------
